@@ -4,3 +4,9 @@ D:\MyConfiguration\cxz39223\documents\visual studio 2017\Projects\AsyncDemo\Simp
 D:\MyConfiguration\cxz39223\documents\visual studio 2017\Projects\AsyncDemo\SimpleTask\obj\Debug\SimpleTask.csprojResolveAssemblyReference.cache
 D:\MyConfiguration\cxz39223\documents\visual studio 2017\Projects\AsyncDemo\SimpleTask\obj\Debug\SimpleTask.exe
 D:\MyConfiguration\cxz39223\documents\visual studio 2017\Projects\AsyncDemo\SimpleTask\obj\Debug\SimpleTask.pdb
+G:\gitcode\ThreadDemo\ThreadDemo\AsyncDemo\SimpleTask\bin\Debug\SimpleTask.exe.config
+G:\gitcode\ThreadDemo\ThreadDemo\AsyncDemo\SimpleTask\bin\Debug\SimpleTask.exe
+G:\gitcode\ThreadDemo\ThreadDemo\AsyncDemo\SimpleTask\bin\Debug\SimpleTask.pdb
+G:\gitcode\ThreadDemo\ThreadDemo\AsyncDemo\SimpleTask\obj\Debug\SimpleTask.csprojResolveAssemblyReference.cache
+G:\gitcode\ThreadDemo\ThreadDemo\AsyncDemo\SimpleTask\obj\Debug\SimpleTask.exe
+G:\gitcode\ThreadDemo\ThreadDemo\AsyncDemo\SimpleTask\obj\Debug\SimpleTask.pdb

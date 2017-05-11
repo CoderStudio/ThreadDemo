@@ -4,3 +4,9 @@ D:\MyConfiguration\cxz39223\documents\visual studio 2017\Projects\AsyncDemo\Thre
 D:\MyConfiguration\cxz39223\documents\visual studio 2017\Projects\AsyncDemo\ThreadPoolDemo\obj\Debug\ThreadPoolDemo1.csprojResolveAssemblyReference.cache
 D:\MyConfiguration\cxz39223\documents\visual studio 2017\Projects\AsyncDemo\ThreadPoolDemo\obj\Debug\ThreadPoolDemo.exe
 D:\MyConfiguration\cxz39223\documents\visual studio 2017\Projects\AsyncDemo\ThreadPoolDemo\obj\Debug\ThreadPoolDemo.pdb
+G:\gitcode\ThreadDemo\ThreadDemo\AsyncDemo\ThreadPoolDemo\bin\Debug\ThreadPoolDemo.exe.config
+G:\gitcode\ThreadDemo\ThreadDemo\AsyncDemo\ThreadPoolDemo\bin\Debug\ThreadPoolDemo.exe
+G:\gitcode\ThreadDemo\ThreadDemo\AsyncDemo\ThreadPoolDemo\bin\Debug\ThreadPoolDemo.pdb
+G:\gitcode\ThreadDemo\ThreadDemo\AsyncDemo\ThreadPoolDemo\obj\Debug\ThreadPoolDemo1.csprojResolveAssemblyReference.cache
+G:\gitcode\ThreadDemo\ThreadDemo\AsyncDemo\ThreadPoolDemo\obj\Debug\ThreadPoolDemo.exe
+G:\gitcode\ThreadDemo\ThreadDemo\AsyncDemo\ThreadPoolDemo\obj\Debug\ThreadPoolDemo.pdb
