@@ -1,0 +1,6 @@
+G:\gitcode\ThreadDemo\ThreadDemo\AsyncDemo\SemaphoreDemo\bin\Debug\SemaphoreDemo.exe.config
+G:\gitcode\ThreadDemo\ThreadDemo\AsyncDemo\SemaphoreDemo\bin\Debug\SemaphoreDemo.exe
+G:\gitcode\ThreadDemo\ThreadDemo\AsyncDemo\SemaphoreDemo\bin\Debug\SemaphoreDemo.pdb
+G:\gitcode\ThreadDemo\ThreadDemo\AsyncDemo\SemaphoreDemo\obj\Debug\SemaphoreDemo.csprojResolveAssemblyReference.cache
+G:\gitcode\ThreadDemo\ThreadDemo\AsyncDemo\SemaphoreDemo\obj\Debug\SemaphoreDemo.exe
+G:\gitcode\ThreadDemo\ThreadDemo\AsyncDemo\SemaphoreDemo\obj\Debug\SemaphoreDemo.pdb

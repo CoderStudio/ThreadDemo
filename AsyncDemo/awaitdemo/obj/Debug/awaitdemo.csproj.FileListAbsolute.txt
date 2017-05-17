@@ -1,0 +1,6 @@
+G:\gitcode\ThreadDemo\ThreadDemo\AsyncDemo\awaitdemo\bin\Debug\awaitdemo.exe.config
+G:\gitcode\ThreadDemo\ThreadDemo\AsyncDemo\awaitdemo\bin\Debug\awaitdemo.exe
+G:\gitcode\ThreadDemo\ThreadDemo\AsyncDemo\awaitdemo\bin\Debug\awaitdemo.pdb
+G:\gitcode\ThreadDemo\ThreadDemo\AsyncDemo\awaitdemo\obj\Debug\awaitdemo.csprojResolveAssemblyReference.cache
+G:\gitcode\ThreadDemo\ThreadDemo\AsyncDemo\awaitdemo\obj\Debug\awaitdemo.exe
+G:\gitcode\ThreadDemo\ThreadDemo\AsyncDemo\awaitdemo\obj\Debug\awaitdemo.pdb

@@ -1,0 +1,6 @@
+G:\gitcode\ThreadDemo\ThreadDemo\AsyncDemo\lockdemo\bin\Debug\lockdemo.exe.config
+G:\gitcode\ThreadDemo\ThreadDemo\AsyncDemo\lockdemo\bin\Debug\lockdemo.exe
+G:\gitcode\ThreadDemo\ThreadDemo\AsyncDemo\lockdemo\bin\Debug\lockdemo.pdb
+G:\gitcode\ThreadDemo\ThreadDemo\AsyncDemo\lockdemo\obj\Debug\lockdemo.csprojResolveAssemblyReference.cache
+G:\gitcode\ThreadDemo\ThreadDemo\AsyncDemo\lockdemo\obj\Debug\lockdemo.exe
+G:\gitcode\ThreadDemo\ThreadDemo\AsyncDemo\lockdemo\obj\Debug\lockdemo.pdb
